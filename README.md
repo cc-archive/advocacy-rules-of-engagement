@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
-| Accountable  | ?  |
+| Accountable  | [Ryan Merkley](https://github.com/ryanmerkley)  |
 | Consulted | Add yourselves here |
 | Informed | Add yourselves here |
