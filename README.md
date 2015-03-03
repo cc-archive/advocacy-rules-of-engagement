@@ -6,6 +6,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
-| Approvers  | ?  |
-| Contributors | Add yourselves here |
+| Accountable  | ?  |
+| Consulted | Add yourselves here |
 | Informed | Add yourselves here |
